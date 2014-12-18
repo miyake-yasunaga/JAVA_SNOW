@@ -2,7 +2,7 @@
 #Javaで雪景色
 ***
 
-![サンプルイメージ](https://github.com/miyake-yasunaga/JAVA_SNOW/images/Snow-1.jpg)
+![サンプルイメージ](https://github.com/miyake-yasunaga/JAVA_SNOW/blob/master/images/Snow-1.jpg)
 
 今回はお好きな画像に雪を降らせるプログラムです。
 
